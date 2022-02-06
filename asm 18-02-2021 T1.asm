@@ -1,4 +1,3 @@
-
 .data
 ST: .space 8 ;# char NUM[8] = 8*1
 V: .space 64 ;# int V[8] = 8*8
